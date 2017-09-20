@@ -1,5 +1,5 @@
 # RWFunctor
-Objective-C samples for Function Programing
+Objective-C samples for Functional Programing
 
 - samples
 
