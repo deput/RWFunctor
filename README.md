@@ -13,7 +13,7 @@ Objective-C samples for Functional Programing
 }];//Functor(@"ABCD")
 
 
-[[Functor of:nil] map:^id(id x) {
+[[Maybe of:nil] map:^id(id x) {
   return @([x integerValue] + 1);
 }];//Functor(nil)
 
